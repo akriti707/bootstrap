@@ -1,0 +1,17 @@
+/* body{background-color: rgb(223, 228, 233);} */
+#demo p:hover
+{
+    background-color:rgb(221, 222, 223) !important;
+    cursor: pointer;
+}
+.badge-pill:hover
+{
+    background-color:black !important;
+}
+.badge-pill:hover a{
+    color:white !important;
+}
+p{
+    cursor: pointer;
+    
+}
